@@ -1,2 +1,2 @@
 # rsschool-cv
-Repository for RS school tasks
+[cv (Sobir Bakhtiyor)](https://sobirbakhtiyor.github.io/rsschool-cv/cv)
